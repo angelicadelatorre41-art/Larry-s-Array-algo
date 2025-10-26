@@ -1,1 +1,1 @@
-# Larry-s-Array-algo
+# Larry-s-Array-algo The function counts how many inversions (out-of-order pairs) exist in the array. Since Larry’s rotation operation changes the inversion count by an even number, the array can be sorted if the total inversions are even, returning "YES"; otherwise, "NO".
